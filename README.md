@@ -21,4 +21,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulofpj/paulofpj/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/paulofpj/snk)_
+_generated with [Platane/snk](https://github.com/paulofpj/cobrinha/snk)_
