@@ -3,7 +3,7 @@
 #### Atualmente trabalho com o estudo e desenvolvimento de algoritmos para inteligência artificial, machine learning e analise de dados. Acredito veementemente que todos os negócios por mais simples que sejam, possuem um extraordinário potencial crescimento através da analise gerada de seus próprio dados.
 
   
-## Tecnologias que estudo no dia dia
+## Tecnologias que estudo no dia a dia
 <div style="display:inline_block"><br/>
   <p align="left">
   <a href="https://skillicons.dev">
